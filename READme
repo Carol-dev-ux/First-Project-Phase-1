@@ -1,0 +1,38 @@
+
+*Movie Search Web App
+This web application allows users to search for movies and view their details, including the movie poster, title, overview, and watch trailers. Users can also add movies to their watchlist and remove them.
+
+
+*Usage
+Search for Movies:
+
+-Enter a movie title in the search bar.
+Press Enter or click the search icon to retrieve a list of matching movies.
+View Movie Details:
+
+-Click on a movie from the search results to view details.
+The details include the movie title, overview, and options to watch the trailer, add to the watchlist, or remove from the watchlist.
+Watch Trailer:
+
+-Click the "Watch Trailer" button to view the movie trailer (if available).
+A YouTube embedded player will be displayed with the trailer.
+Add to Watchlist:
+
+-Click the "Add to Watchlist" button to add the movie to your watchlist.
+Remove from Watchlist:
+
+-Click the "Remove from Watchlist" button to remove the movie from your watchlist.
+
+*Structure
+index.html: The main HTML file containing the structure of the web page.
+
+style.css: The CSS file for styling the web page.
+
+script.js: The JavaScript file containing the logic for fetching movie data, displaying search results, and managing movie details.
+
+*Dependencies
+This web app relies on the The Movie Database (TMDb) API to fetch movie data.
+
+*Credits
+This project uses data from The Movie Database (TMDb).
+Built by Caroline Wangari
