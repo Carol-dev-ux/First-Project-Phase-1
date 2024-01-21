@@ -113,7 +113,6 @@ section-divider {
     margin: 20px 0;
 }
 
-/* Add media queries for responsiveness */
 @media screen and (max-width: 600px) {
     main {
         padding: 10px;

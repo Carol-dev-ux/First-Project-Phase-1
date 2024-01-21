@@ -1,27 +1,24 @@
 
 *Movie Search Web App
-This web application allows users to search for movies and view their details, including the movie poster, title, overview, and watch trailers. Users can also add movies to their watchlist and remove them.
+This web application allows users to search for movies and view their details, including the movie poster, title, overview, and watch trailers. Users can also add comments to the movies.
 
 
 *Usage
 Search for Movies:
 
--Enter a movie title in the search bar.
-Press Enter or click the search icon to retrieve a list of matching movies.
+Enter a movie title in the search bar.
+-Click the search icon to retrieve a list of matching movies.
 View Movie Details:
 
 -Click on a movie from the search results to view details.
-The details include the movie title, overview, and options to watch the trailer, add to the watchlist, or remove from the watchlist.
-Watch Trailer:
+The details include the movie title, overview, and options to watch the trailer and add to the comments. Scroll down to view all the details.
 
+Watch Trailer:
 -Click the "Watch Trailer" button to view the movie trailer (if available).
 A YouTube embedded player will be displayed with the trailer.
-Add to Watchlist:
 
--Click the "Add to Watchlist" button to add the movie to your watchlist.
-Remove from Watchlist:
-
--Click the "Remove from Watchlist" button to remove the movie from your watchlist.
+Add to the comment-section:
+-Click the "Add Comment" button to add your comment on a particular movie
 
 *Structure
 index.html: The main HTML file containing the structure of the web page.
